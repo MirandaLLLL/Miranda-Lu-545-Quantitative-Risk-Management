@@ -1,6 +1,6 @@
 Duke Fintech 545 Quantitative Risk Management
 
-5 files in total: 545_Week3_assignment_report.pdf (responses to the problem), 545-WEEK3.ipynb (code), Daily_Price.csv, portfolio.csv, and README.md
+5 files in total: 545_week4.pdf (responses to the problem), 545-WEEK3.ipynb (code), Daily_Price.csv, portfolio.csv, and README.md
 
 545_week4.pdf: It contains the written answers for the 3 problems, and it also contains the screenshots of the python3 code results
 
